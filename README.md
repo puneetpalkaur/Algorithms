@@ -2,6 +2,7 @@
 Java code for Algorithms
 
 Algorithms Respository conatains Java Code Implementation for below algorithms:
+
 1. BRUTE FORCE ALGORITHM
 This code calculates the maximum sub-array using Brute Force Agorithm
 
